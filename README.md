@@ -28,5 +28,6 @@ jupyter notebook
 ## Visualizations
 The notebook generates several plots:
 - **Line Charts:** Showing the price fluctuations of IBM and Walmart.
+  ![Alt Text](path/to/image.png)
 - **Pie Charts:** Distribution of trading volume for specific stock groups (IBM vs BAC and WMT vs BAC vs CSCO).
 
