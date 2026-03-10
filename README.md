@@ -14,3 +14,19 @@ Ensure you have Python installed, then install the required dependencies:
 
 ```bash
 pip install pandas matplotlib
+```
+## How To Use
+1. **Clone the Repo:** Download the project files to your local machine.
+2. **Data Source:** Download the project files to your local machine.Ensure `dow_jones_index.csv` is located in the same folder as the notebook.
+3. **Open Notebook:** Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+4. **Run Cells:** Open the `.ipynb` file and run the cells sequentially to generate the visualizations.
+
+## Visualizations
+The notebook generates several plots:
+- **Line Charts:** Showing the price fluctuations of IBM and Walmart.
+- **Pie Charts:** Distribution of trading volume for specific stock groups (IBM vs BAC and WMT vs BAC vs CSCO).
+
