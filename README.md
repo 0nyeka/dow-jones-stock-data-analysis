@@ -28,6 +28,14 @@ jupyter notebook
 ## Visualizations
 The notebook generates several plots:
 - **Line Charts:** Showing the price fluctuations of IBM and Walmart.
-  ![IBM Line Chart](ibm-line-chart.png)
-- **Pie Charts:** Distribution of trading volume for specific stock groups (IBM vs BAC and WMT vs BAC vs CSCO).
+ 
+| IBM Chart | Walmart Chart |
+| :---: | :---: |
+| ![IBM](line-chart-1.png) | ![Walmart](line-chart-2.png) |
+
+- **Pie Charts:** Distribution of trading volume for specific stock groups (Total Volume, IBM vs BAC and WMT vs BAC vs CSCO).
+  
+| Total Volume | IBM vs BAC | WMT vs BAC vs CSCO |
+| :---: | :---: | :---: |
+| ![Total](pie-chart-1.png) | ![IBM vs BAC](pie-chart-2.png) | ![WMT vs BAC vs CSCO](pie-chart-3.png) |
 
